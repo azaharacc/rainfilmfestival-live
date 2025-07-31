@@ -10,7 +10,7 @@ export default {
   data() {
     return {
       temporizadorInactivo: null,
-      tiempoInactividad: 6000, 
+      tiempoInactividad: 360000, 
       navegacionAutomaticaActiva: false, // Variable para controlar el estado de la navegación automática
       historialCoordenadasMouse: [], // Historial de coordenadas del mouse
       maxCoordenadas: 1000,

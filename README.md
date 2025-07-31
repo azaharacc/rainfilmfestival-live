@@ -18,6 +18,9 @@ A second screen (or browser console) reveals details of user interaction, exposi
 
 ## 🤜 Screenshots
 
+![Screenshot](screenshot.png)
+![Screenshot](screenshot-console.png)
+
 ## ⚙️ Technologies Used
 
 - Vue 3 + Vue Router - Framework powering the app
